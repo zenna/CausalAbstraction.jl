@@ -1,0 +1,10 @@
+name = "CausalAbstraction"
+uuid = "7d73b89e-4b3a-4995-87a1-720a435ae7f8"
+authors = ["Zenna Tavares <zennatavares@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+AndTraits = "fb24a613-cb95-4ee3-a029-2b7ba7763d4b"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Omega = "1af16e33-887a-59b3-8344-18f1671b3ade"
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
